@@ -1,4 +1,4 @@
-$ git clone https://github.com/yasainet/dotfiles.git
+$ git clone https://github.com/mayyyuya/dotfiles.git
 
 $ mkdir -p dotfiles/.vim/bundle
 
@@ -22,12 +22,12 @@ $ git add README.md
 
 $ git commit -m "first commit"
 
-$ git remote add origin https://github.com/yasainet/dotfile.git
+$ git remote add origin https://github.com/mayyyuya/dotfile.git
 
 $ git push -u origin master
 
 // Push an existing repository from the command line
 
-$ git remote add origin https://github.com/yasainet/dotfile.git
+$ git remote add origin https://github.com/mayyyuya/dotfile.git
 
 $ git push -u origin master
